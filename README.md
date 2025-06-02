@@ -1,5 +1,5 @@
-<H3>Name : Kothai K</H3>
-<H3>REGISTER NO: 212222240051 </H3>
+<H3>Name : AMURTHA VAAHINI KN</H3>
+<H3>REGISTER NO: 212222240008 </H3>
 <H3>EX. NO.6</H3>
 <H3>DATE: 05/05/2025 </H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
